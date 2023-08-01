@@ -20,6 +20,6 @@ ruamel.yaml==0.17.17
 six==1.16.0
 soupsieve==2.3
 tqdm==4.62.3
-urllib3==1.26.7
+urllib3==2.0.4
 websocket-client==1.2.1
 yamale==4.0.2
