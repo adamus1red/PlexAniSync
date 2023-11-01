@@ -18,7 +18,7 @@ rebulk==3.1.0
 requests==2.26.0
 ruamel.yaml==0.17.17
 six==1.16.0
-soupsieve==2.3
+soupsieve==2.5
 tqdm==4.62.3
 urllib3==1.26.7
 websocket-client==1.2.1
